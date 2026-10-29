@@ -1,0 +1,14 @@
+{
+  "index_base": "notebooks/BanglaNMT_ratio_filtered/train",
+  "ratio_lower_cutoff": -0.4373,
+  "ratio_upper_cutoff": 0.571,
+  "min_words_each_side": 5,
+  "labse_model": "sentence-transformers/LaBSE",
+  "labse_cosine_cutoff": 0.65718675,
+  "labse_cutoff_method": "10th percentile of mid_labse_cosines.npy",
+  "counts": {
+    "v1_ratio_filtered": 2351313,
+    "v2_S_keep_short": 2177739,
+    "v2_N_drop_short": 1320869
+  }
+}

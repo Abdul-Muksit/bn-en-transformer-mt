@@ -1,0 +1,7 @@
+datasets
+numpy
+pandas
+sentence-transformers
+sentencepiece
+tqdm
+git+https://github.com/csebuetnlp/normalizer
